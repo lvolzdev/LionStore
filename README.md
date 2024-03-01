@@ -1,8 +1,10 @@
+# 사자네 문방구 🦁
 2020 국민대학교 멋쟁이 사자처럼 교내 해커톤 프로젝트
-[사자네 문방구]
--------------
-### 여러분 꼭 꼭 꼭 작업 시작하기 전에 이슈에 본인이 해당 작업 하고 있다고 Comment 달아 주세요!
-### 없으면 issue를 만들어 주세요 꼭!
+
+
+<img src="https://github.com/lvolzdev/LionStore/assets/63188042/49ed0322-33fd-40d4-894a-a9d88b4b5f33" title="사자네문방구">
+<br /><br />
+
 
 ### 프로젝트 시작 방법
 1. GitHub Repository로부터 해당 프로젝트를 Clone한다.
